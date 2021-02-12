@@ -10,7 +10,6 @@ oauth_token_id              = ""
 
 # The Values can be changed for use in the newly-created Workspace
 # Additional values could be added here (ex. branch, etc.)
-<<<<<<< HEAD:terraform.tfvars
 
 
 tfe_vars_sensitive = {
