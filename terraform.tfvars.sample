@@ -1,4 +1,4 @@
-# This set of variables are used to create and configure the workspace you are creating.  
+# This set of variables are used to create and configure the workspace we are creating.  
 
 token                       = ""  <-- TFC API token  
 organization                = ""  <-- TFC organization 
@@ -7,7 +7,7 @@ vcs_repo                    = ""  <-- Format follows <organization>/<repository>
 oauth_token_id              = ""  <-- Oauth token id from TFC organization VCS integration 
 
 
-# The following variables will be created in the workspace you are creating.
+# The following variables will be created in the workspace we are creating.
 
 tfe_vars_sensitive = {
     AWS_ACCESS_KEY_ID           = ""  <-- AWS Access key
